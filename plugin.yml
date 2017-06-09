@@ -1,0 +1,10 @@
+name: AdminTools
+version: 0.1
+author: scisneromam
+main: main.Main
+prefix: §4AdminTools§r
+permissions: adminTools.*
+commands: // if you have some commands
+      test:
+               description: test command
+               usage: /test
